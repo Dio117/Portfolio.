@@ -1,0 +1,261 @@
+
+
+body{
+   background-image: url( https://wallpapers.com/images/featured/navy-blue-background-7hjjat8tuk4sczzw.jpg);
+    background-size: cover;
+   background-color: rgb(38, 7, 150);
+    color: bisque;
+}
+
+
+.cabecalho{
+    display: flex;
+    justify-content: center;
+    
+}
+
+
+.cabecalho_lista{
+    margin-top: 0px;
+    margin-bottom: 40px;
+display: flex;
+flex-direction: row;
+align-items: center;
+justify-content: space-evenly;
+position: relative;
+height: 56px;
+border-radius: 60px;
+width: 1315px;
+border-bottom: 2px solid aqua;
+}
+
+.cabecalho_lista_item{
+font-size: 1.7rem;
+color: bisque;
+font-style: oblique;
+text-decoration: none;
+font-family: fantasy;
+
+}
+
+.cabecalho_lista_item:hover{
+ color: rgb(247, 253, 163);
+ font-size: 1.9rem;
+ transition: .2s;
+
+}
+
+.home{
+   margin-top: 15px;
+    background-size: cover;
+ background-repeat: no-repeat;
+    display: flex;
+    height: 420px;
+    justify-content: center;
+}
+
+.logo{
+
+}
+
+.interface1{
+background-image: url( https://media0.giphy.com/media/lbcLMX9B6sTsGjUmS3/giphy.gif?cid=6c09b952pguuea03kceu6dye30bn8i8rypv4wfbcnbd6p8zq&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g);
+color: bisque;
+display: flex;
+background-size: cover;
+border-radius: 60px;
+justify-content: center;
+align-items: center;
+height: 380px;
+width: 890px;
+padding-right: 110px;
+padding-left: 55px;
+margin-bottom: 0;
+font-size: 1.9rem;
+border-top: 2px solid white;
+border-bottom: 3px solid aqua;
+border-radius: 60px;
+}
+
+.flex1{
+display: flex;
+flex-direction: row;
+justify-content: flex-start ;
+text-align: left;
+align-items: center;
+gap: 29px;
+}
+
+.txt-topo{
+    display: inline-block;
+    font-size: 1.9rem;
+    color: bisque;
+    font-family: fantasy;
+}
+
+
+.txt-topo_lista-item1{
+    color: rgb(5, 228, 154);
+    font-size: 2.2rem;
+    margin-bottom: 30px;
+    font-weight: 600;
+    font-style: italic;
+    text-align: center;
+   font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.txt-topo_lista-item2{
+    font-style: oblique;
+    font-weight: 200;
+    color: rgb(247, 253, 163);
+    text-align: center;
+    font-family: fantasy;
+}
+
+
+.especialidades{
+ display: flex;
+ justify-content: center;
+
+}
+
+.flex{
+    margin-top: 34px;
+}
+
+
+.interface2{
+height: 340px;
+width: 1160px;
+display: inline-block;
+color: rgb(136, 187, 183);
+text-align: center;
+justify-content: center;
+align-items: center;
+font-size: 1.3rem;
+padding-left: 20px;
+padding-top: 50px;
+}
+
+.especialidades-box1{
+text-align: left;
+color: rgba(238, 255, 0, 0.856);
+
+}
+
+.especialidades-box2{
+ text-align: left;
+ color: rgba(238, 255, 0, 0.856);
+
+}
+
+
+.especialidades-box3{
+text-align: left;
+color: rgba(238, 255, 0, 0.856);
+
+}
+
+.flex{
+    color: rgb(255, 255, 255);
+display: flex;
+justify-content: flex-end ;
+text-align: left;
+align-items: center;
+gap: 29px;
+padding: 20px;
+}
+
+
+.txt{
+    font-style: oblique;
+    font-size: 1.9rem;
+    font-family: fantasy;
+}
+
+
+
+.txt-span{
+color: aquamarine;
+font-style: oblique;
+font-family: fantasy;
+}
+
+
+.interface3{
+    margin-top: 80px;
+    display: flex;
+    justify-content: center;
+}
+
+
+
+.flex3{
+    
+    display: flex;
+    margin-top: 50px;
+    justify-content: flex-end;
+    align-items: center;
+    text-align: left;
+    height: 430px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1.4rem;
+    width: 980px;
+    padding-left: 20px 4%;
+}
+
+
+.txt-dio-sobre{
+    padding-right: 30px;
+}
+
+
+.rodape{
+    
+   background-color: darkblue;
+   background-image: url( https://wallpapers.com/images/featured/navy-blue-background-7hjjat8tuk4sczzw.jpg);
+   background-size: cover;
+
+
+}
+
+.interface-rodape{
+    display: flex;
+    justify-content: center;
+    
+}
+
+
+.flex4{
+    margin-top: 45px;
+    margin-bottom: 40px;
+    justify-content: space-evenly;
+    display: flex;
+    align-items: flex-end;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1.4rem;
+    width: 1315px;
+    padding: 20px;
+}
+
+
+.instagram{
+color: bisque;
+text-decoration: none;
+
+}
+
+.insta{
+   
+}
+
+
+.wpp{
+color: bisque;
+text-decoration: none;
+}
+
+.email{
+color: bisque;
+text-decoration: none;
+}
